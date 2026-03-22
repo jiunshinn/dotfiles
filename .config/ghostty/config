@@ -1,0 +1,8 @@
+keybind = global:cmd+grave_accent=toggle_quick_terminal
+theme = Github Dark
+font-size=14
+font-family=Hack Nerd Font Mono
+background-opacity = 0.8
+background-blur-radius = 10
+keybind = shift+enter=text:\n
+macos-option-as-alt = true
